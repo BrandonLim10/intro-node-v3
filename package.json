@@ -1,0 +1,14 @@
+{
+  "name": "intro-node-v3",
+  "version": "1.0.0",
+  "description": "Node.js project from FrontEnd Masters intro to node.js course",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
