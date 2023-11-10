@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Node.js project from FrontEnd Masters intro to node.js course",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "note": "./index.js"
   },
